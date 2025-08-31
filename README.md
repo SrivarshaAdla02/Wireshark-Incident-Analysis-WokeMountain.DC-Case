@@ -100,7 +100,7 @@ The importance of PCAP-based investigation for uncovering credential theft
 
 Practical use of Wireshark filters (http, ssl, frame contains "MZ", drsuapi) in real-world analysis
 
-👤 Authors
+👤 Author
 
 Sri Varsha Adla
 
